@@ -1,0 +1,30 @@
+DevOps automation improves deployment speed.
+Linux is widely used in cloud computing.
+Docker packages applications into containers.
+Kubernetes manages container orchestration.
+Jenkins automates CI/CD pipelines.
+Git tracks changes in source code.
+AWS provides scalable cloud services.
+Azure offers enterprise cloud solutions.
+Google Cloud supports modern applications.
+Nginx works as a reverse proxy server.
+Apache is a popular web server.
+Terraform automates infrastructure provisioning.
+Ansible simplifies configuration management.
+Python is commonly used for automation.
+Shell scripting automates repetitive tasks.
+Networking is essential for system administration.
+SSH provides secure remote access.
+Cron schedules recurring tasks.
+Systemd manages Linux services.
+Monitoring ensures application reliability.
+Logging helps troubleshoot production issues.
+Load balancing improves application availability.
+Firewalls protect network resources.
+DNS resolves domain names to IP addresses.
+GitHub stores and manages repositories.
+CI/CD accelerates software delivery.
+Containers ensure application consistency.
+Microservices improve application scalability.
+Observability helps detect system issues.
+Continuous learning is essential in DevOps.

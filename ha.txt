@@ -1,0 +1,3 @@
+hello this is a simple text file
+i am addding through the hardlinkfile
+i am adding content though softliunk

@@ -1,0 +1,5 @@
+John:25:Developer:Bangalore:75000
+Alice:28:Tester:Hyderabad:65000
+Bob:30:DevOps:Chennai:85000
+David:27:SystemAdmin:Pune:70000
+Emma:26:CloudEngineer:Mumbai:90000
