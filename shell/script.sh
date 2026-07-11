@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #!/bin/bash
 
 echo "this is the txt from a"
@@ -8,6 +7,3 @@ echo
 
 echo "this is the txt from b"
 cat b.txt
-=======
-hello!
->>>>>>> 7a35d7be2ced001f8304572bb6e950e0df96cd39
